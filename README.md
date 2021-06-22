@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi there! I'm Kete 👋
+
+
+- 🔭 I’m currently working on making wellbeing universal with Gympass
+- 😄 Pronouns: She/Her/
+-  👯 I’m looking to collaborate on projects about diversity.
+- ⚡ Fun fact: 'kete' is not a nickname
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p>
+<a href="https://github.com/ketemartinsrufino">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ketemartinsrufino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ketemartinsrufino&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/-ketemr-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ketemr/)
+[![Twitter](https://img.shields.io/badge/-ketemr_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ketemr)
+[![Gmail](https://img.shields.io/badge/-ketemartinsrufino-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:ketemartinsrufino@gmail.com)
+
 
 <!--
 **ketemartinsrufino/ketemartinsrufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
