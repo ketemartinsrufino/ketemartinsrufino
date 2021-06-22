@@ -1,10 +1,16 @@
 ### Hi there! I'm Kete 👋
 
+I'm a manager trying to code a little bit more on day to day of work.
 
 - 🔭 I’m currently working on making wellbeing universal with Gympass
 - 😄 Pronouns: She/Her/
 -  👯 I’m looking to collaborate on projects about diversity.
 - ⚡ Fun fact: 'kete' is not a nickname
+- 📖 Some articles I wrote [here](https://medium.com/@ketemr) (all in Portuguese)
+- 📫 How to reach me: 
+[![LinkedIn](https://img.shields.io/badge/-ketemr-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ketemr/)
+[![Twitter](https://img.shields.io/badge/-ketemr_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ketemr)
+[![Gmail](https://img.shields.io/badge/-ketemartinsrufino-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:ketemartinsrufino@gmail.com)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -15,10 +21,6 @@
 </a>
 </p>
 
-📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-ketemr-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ketemr/)
-[![Twitter](https://img.shields.io/badge/-ketemr_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ketemr)
-[![Gmail](https://img.shields.io/badge/-ketemartinsrufino-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:ketemartinsrufino@gmail.com)
 
 
 <!--
